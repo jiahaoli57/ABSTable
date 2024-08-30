@@ -4,7 +4,7 @@
 
 | <div style="width:330px">[网页版](https://ccfddl.top/) <br> [开发中] </div> | <div style="width:330px">[微信小程序](https://github.com/ccfddl/ccf-deadlines/tree/main/cli) <br> [运行中] </div> |
 | :----: | :----: |
-| <img src=".readme_assets/screenshot_website.png" width="300px"/> | <img src=".readme_assets/abs_mini-program.jpg" width="300px"/> |
+| <img src=".readme_assets/screenshot_website.png" width="220px"/> | <img src=".readme_assets/abs_mini-program.jpg" width="200px"/> |
 
 ## ⭐ 支持一下
 在过去几个月里，微信小程序 `ABS分区表` 帮助了超过 *6000* 名用户完成ABS期刊的中科院分区等信息的获取。现在，为了让更多人受益，我们正在开发 `ABS分区表` 的网页版本。这是一个庞大的工程，而博主几乎是在一个人开发。
