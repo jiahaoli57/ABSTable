@@ -6,7 +6,7 @@
 | :----: | :----: |
 | <img src=".readme_assets/screenshot_website.png" width="300px"/> | <img src=".readme_assets/abs_mini-program.jpg" width="300px"/> |
 
-## ⭐ 赞助与支持
+## ⭐ 支持一下
 在过去几个月里，微信小程序 `ABS分区表` 帮助了超过 *6000* 名用户完成ABS期刊的中科院分区等信息的获取。现在，为了让更多人受益，我们正在开发 `ABS分区表` 的网页版本。这是一个庞大的工程，而博主几乎是在一个人开发。
 
 因此，如果您喜欢 `ABS分区表`，为这个项目点赞加星⭐支持一下！！！
