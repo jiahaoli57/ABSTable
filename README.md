@@ -1,6 +1,7 @@
 # ABS-Table
 我们正在将微信小程序 `ABS分区表` 拓展成网页版，旨在为用户提供更方便、更灵活的使用体验。网页版将保留小程序版的所有功能并将在近期内发布，届时域名预计为：https://abstable.github.io
 
+
 | <div style="width:330px">[网页版](https://ccfddl.top/) <br> [开发中] </div> | <div style="width:330px">[微信小程序](https://github.com/ccfddl/ccf-deadlines/tree/main/cli) <br> [运行中] </div> |
 | :----: | :----: |
 | <img src=".readme_assets/screenshot_website.png" width="300px"/> | <img src=".readme_assets/abs_mini-program.jpg" width="300px"/> |
@@ -13,4 +14,4 @@
 因此，如果您喜欢并从 `ABS分区表` 中获益，我们非常希望您能为这个项目点赞加星⭐！！！
 
 ## 联系方式
-如有任何疑问，欢迎通过提交issue联系我们。
+如有任何疑问，欢迎通过提交 issue 联系我们。
