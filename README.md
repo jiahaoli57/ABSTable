@@ -1,12 +1,9 @@
 # ABS-Table
-我们正在将微信小程序 `ABS分区表` 拓展成网页版，旨在为用户提供更方便、更灵活的使用体验。网页版将保留小程序版的所有功能。
+我们正在将微信小程序 `ABS分区表` 拓展成网页版，旨在为用户提供更方便、更灵活的使用体验。网页版将保留小程序版的所有功能并将在近期内发布，届时域名预计为：https://abstable.github.io
 
 | <div style="width:330px">[网页版](https://ccfddl.top/) <br> [开发中] </div> | <div style="width:330px">[微信小程序](https://github.com/ccfddl/ccf-deadlines/tree/main/cli) <br> [运行中] </div> |
 | :----: | :----: |
 | <img src=".readme_assets/screenshot_website.png" width="300px"/> | <img src=".readme_assets/abs_mini-program.jpg" width="300px"/> |
-
-## 开发进度
-我们正在努力开发网页版，并将在近期内发布。届时域名预计为：https://abstable.github.io
 
 ## ⭐ 赞助与支持
 在过去几个月里，微信小程序 `ABS分区表` 帮助了超过 *6000* 名用户完成ABS期刊的中科院分区等信息的获取，为他们节省了大量时间和精力。
