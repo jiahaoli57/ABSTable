@@ -11,5 +11,13 @@
 
 因此，如果您喜欢 `ABS分区表`，为这个项目点赞加星⭐支持一下！！！
 
+<a href="https://star-history.com/#jiahaoli57/ABSTable&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=jiahaoli57/ABSTable&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=jiahaoli57/ABSTable&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=jiahaoli57/ABSTable&type=Date" />
+ </picture>
+</a>
+
 ## 联系方式
 如有任何疑问，欢迎通过提交 issue 联系我们。
