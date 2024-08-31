@@ -11,14 +11,6 @@
 
 因此，如果您喜欢 `ABS分区表`，为这个项目点赞加星⭐支持一下！！！
 
-<a href="https://star-history.com/#jiahaoli57/ABSTable&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=jiahaoli57/ABSTable&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=jiahaoli57/ABSTable&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=jiahaoli57/ABSTable&type=Date" width="600px"/>
- </picture>
-</a>
-
 ## 为什么？
 因为......微信小程序的开发限制真的有点太多了🥲
 
