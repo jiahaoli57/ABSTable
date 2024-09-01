@@ -11,7 +11,7 @@
 
 因此，如果您喜欢 `ABS分区表`，为这个项目点赞加星⭐支持一下！！！
 
-## 为什么？
+## 为什么要开发网页版？
 因为......微信小程序的开发限制真的有点太多了🥲
 
 <img src=".readme_assets/wx_1.png" width="250px"/>  <img src=".readme_assets/wx_2.png" width="250px"/>
