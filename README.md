@@ -1,7 +1,7 @@
 # ABSTable
 我们正在将微信小程序 `ABS分区表` 拓展成网页版和插件版，旨在为用户提供更方便、更灵活的使用体验。网页版和插件版将保留小程序版的所有功能并将在近期内发布，届时域名预计为：https://abstable.github.io
 
-| <div style="width:330px">[网页版](https://abstable.github.io) <br> [开发中] </div> | <div style="width:330px">[浏览器插件](https://github.com/jiahaoli57/ABSTable/releases/tag/v1.0.0) <br> [审核中] </div> | <div style="width:330px">[微信小程序](.readme_assets/abs_mini-program.jpg) <br> [运行中] </div> |
+| <div style="width:330px">[网页版](https://abstable.github.io) <br> [开发中] </div> | <div style="width:330px">[浏览器插件](https://chromewebstore.google.com/detail/abs%E5%88%86%E5%8C%BA%E8%A1%A8/hhbibphhpmkkfljlknelbfpjapmbmbei?hl=zh-CN&utm_source=ext_sidebar) <br> [运行中] </div> | <div style="width:330px">[微信小程序](.readme_assets/abs_mini-program.jpg) <br> [运行中] </div> |
 | :----: | :----: | :----: |
 | <img src=".readme_assets/screenshot_website.png" width="260px"/> | <img src=".readme_assets/1744716455135.png" width="180px"/> | <img src=".readme_assets/abs_mini-program.jpg" width="250px"/> |
 
